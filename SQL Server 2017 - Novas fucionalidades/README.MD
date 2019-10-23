@@ -22,5 +22,6 @@ Também está presente os arquivos:
 		SQL 2017 - Novas Funcionalidade - Modulo 1.pdf - primeiro módulo do curso
 		SQL Server 2017 on Linux - Quick Start Guide.pdf - Dcoumentação Microsoft
 		SQL_Server_2016_In_Memory_OLTP_White_Paper.pdf - Material avançado da Kalen Delaney sobre o In-memory OLTP
+		Server-2016-SQL-Always-Encrypted-Integration-Guide.pdf - Documento da THALES E-SECURITY UK.
 
 Os arquivos podem ser usados sem restrições desde que respeitado o direito autoral de cada um deles.
